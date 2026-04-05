@@ -40,9 +40,19 @@ MongoDB: https://account.mongodb.com/account/login
 ## How to Run?
 ```bash
 git clone https://github.com/golammonayem/US-Visa-Approval-Prediction
+```
+```bash
 cd US-Visa-Approval-Prediction
+```
+```bash
 conda create -n visa python=3.8 -y
+```
+```bash
 conda activate visa
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 python app.py
 ```
