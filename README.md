@@ -1,30 +1,17 @@
-# 🇺🇸 US Visa Approval Prediction (End-to-End ML Project)
+# US Visa Approval Prediction (End-to-End ML Project)
 
-## 🌳 Overview
+## Overview
 It covers the complete pipeline from data preprocessing to model training and deployment.
 
----
-
-## 🪶 Features
+## Features
 ```bash
 - End-to-End ML Pipeline
 - Data Preprocessing & Feature Engineering
 - Model Training & Evaluation
 - Deployment Ready Structure
 ```
----
 
-## 📊 Tech Stack
-```bash
-- Python
-- Scikit-learn
-- Pandas, NumPy
-- Flask / FastAPI (if used)
-- Docker (optional)
-```
----
-## 📂 Project Structure
-
+## Project Structure
 ```bash
 ├── data/
 ├── notebooks/
@@ -35,19 +22,27 @@ It covers the complete pipeline from data preprocessing to model training and de
 └── README.md
 ```
 
----
 
-## ⚙️ Installation
+## Tool to have Installed:-
+```bash
+1. Anaconda
+2. VS Code
+3. Git
+```
 
+
+## Database Used:-
+```bash
+MongoDB: https://account.mongodb.com/account/login
+```
+
+
+## How to Run?
 ```bash
 git clone https://github.com/golammonayem/US-Visa-Approval-Prediction
 cd US-Visa-Approval-Prediction
 conda create -n visa python=3.8 -y
 conda activate visa
-
 pip install -r requirements.txt
-```
-## Run the Project
-```bash
 python app.py
 ```
