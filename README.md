@@ -35,7 +35,8 @@ It covers the complete pipeline from data preprocessing to model training and de
 ```bash
 MongoDB: https://account.mongodb.com/account/login
 ```
-
+## Dataset link:-
+kaggle: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 ## How to Run?
 ```bash
